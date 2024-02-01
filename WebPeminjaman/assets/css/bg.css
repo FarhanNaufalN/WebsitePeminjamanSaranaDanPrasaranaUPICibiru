@@ -1,0 +1,11 @@
+body.login {
+    background-image: url('assets/img/bglogin.png');
+    background-size: cover;
+  }
+  .text-center {
+    text-align: center;
+    margin: auto;
+    max-width: 100%;
+  }
+ 
+  
